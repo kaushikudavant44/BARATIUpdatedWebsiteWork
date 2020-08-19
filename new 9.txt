@@ -1,0 +1,16 @@
+VM details
+***************************
+VM IP - 10.52.67.11
+username - admin
+password - Secure09
+************************
+
+Putty
+************************
+ssh ubuntu@10.52.55.23
+Secure@09
+sudo -i
+same pass
+su - hdfs
+hive
+***********************
